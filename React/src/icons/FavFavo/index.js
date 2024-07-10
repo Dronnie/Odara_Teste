@@ -1,0 +1,1 @@
+export { FavFavo } from "./FavFavo";

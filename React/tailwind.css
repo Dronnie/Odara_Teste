@@ -1,0 +1,12 @@
+@tailwind components;
+@tailwind utilities;
+
+@layer components {
+  .all-\[unset\] {
+    all: unset;
+  }
+}
+
+:root {
+  --m-3refneutralneutral-10: rgba(28, 27, 31, 1);
+}
