@@ -1,1 +1,0 @@
-export { Favoritar } from "./Favoritar";

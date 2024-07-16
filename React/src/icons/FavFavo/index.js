@@ -1,1 +1,0 @@
-export { FavFavo } from "./FavFavo";

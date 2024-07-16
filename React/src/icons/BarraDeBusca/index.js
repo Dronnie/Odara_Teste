@@ -1,1 +1,0 @@
-export { BarraDeBusca } from "./BarraDeBusca";
